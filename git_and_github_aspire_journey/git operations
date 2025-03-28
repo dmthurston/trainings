@@ -1,0 +1,7 @@
+git stash which allows you to get back to a clean commit point with a synchronized working tree, and avoid losing your local changes in the process.
+git stash pop switch to previous code
+git log view commit history 
+git log --oneline list of commits in one line format
+git log -S "keyword" displays a list of commits where the number of occurrences of the keyword changes within at least one file via addition, deletion, or modification.
+git log --oneline --graph Displays a visual representation of how the branches and commits were created in order to help you make sense of your repository history
+git --amend  flag is extremely useful when updating a commit, it allows you to correct mistakes and edit commits easily instead of creating a completely new one.

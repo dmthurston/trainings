@@ -1,0 +1,5 @@
+git clone (remote _location) (clone_name)
+git remote -v Lists a Git project’s remotes.
+git fetch Fetches work from the remote into the local copy.
+git push (origin) (branch name) Pushes a local branch to the origin remote.
+git merge origin/master Merges origin/master into your local branch

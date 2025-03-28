@@ -1,0 +1,5 @@
+git show HEAD (git log for HEAD commit)
+git diff (see the difference between working dir and commit)
+git checkout HEAD (restores what master has)
+when using git reset HEAD filename you should see
+    M filename

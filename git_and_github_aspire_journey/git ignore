@@ -1,0 +1,8 @@
+gitignore is a plain text file that tells Git to intentionally ignore changes in certain files
+Each line in .gitignore corresponds to a file, directory, or pattern we would like to ignore when staging
+in a gitignore file 
+    * is a wildcard 
+    ! negates any file that would otherwise be ignored
+    [] can be used to match a single character from a set of characters or a range of characters
+    ** is used to match 0 or more directories
+    

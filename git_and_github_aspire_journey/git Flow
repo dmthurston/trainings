@@ -1,0 +1,5 @@
+git -- version (displays version and allows upgrade)
+same as basic git workflow with the following added 
+    git branch -d (branch name) deletes branch name
+    pull request function
+    

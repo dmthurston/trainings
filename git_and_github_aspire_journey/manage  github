@@ -1,0 +1,3 @@
+git rebase
+    rebasing the new_feature branch onto the main one, we move all the changes made from new_feature to the front of main and incorporate the new commits by rewriting its history.
+Git merge preserves history as it happened, whereas rebase rewrites it.

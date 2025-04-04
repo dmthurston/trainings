@@ -1,0 +1,13 @@
+print("hello") [initates a command to say "hello"]
+-- Lua - is read top to bottom
+-- lab 1
+print("       1")
+print("     2 3")
+print("   4 5 6")
+print("7 8 9 10") -- printed the setup in order from top to bottom
+-- lab 2
+Print ("insert a print with a comment after") --comment
+--[[ this causes multiple sectiions to be commented out with the code back in after]]
+--[[
+    when doing multiple lines on the line prior and the line after is where the bracket would go for comment
+]]
